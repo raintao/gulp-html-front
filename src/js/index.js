@@ -1,3 +1,7 @@
+/*
+	* version 1.0.0
+	*author: levo
+*/
 var ip = 'http://www.baidu.com';
 
 //es6
