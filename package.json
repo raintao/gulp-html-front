@@ -1,10 +1,12 @@
 {
-  "name": "userOA",
-  "version": "0.0.0",
-  "private": true,
+  "name": "drop-cli",
+  "version": "1.0.0",
+  "description": "a cli of web template",
   "scripts": {
-    "start": "node ./bin/userOA"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "rainlevo <229208577@qq.com>",
+  "private": true,
   "dependencies": {
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3"
