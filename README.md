@@ -6,4 +6,12 @@
 ### 压缩img
 ### less, css 编译 合并  自动添加前缀 压缩
 ### js  es6=>el5 编译 合并  压缩
-### 热更新
+### 热更新 实时编译
+
+``` 
+    $ git clone https://github.com/raintao/gulp-html-front.git
+    $ cd gulp-html-front
+    $ npm install
+    $ gulp
+    
+``` 
